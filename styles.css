@@ -1,0 +1,16 @@
+p, h1 {
+    font-size: 72px;
+    font-family: Arial, Helvetica, sans-serif;  
+    text-align: center; 
+    color: red;
+}
+
+#countdown {
+    margin: auto;
+    width: 50%;
+    padding-top: 5%;
+}
+
+body {
+    background-color: black;
+}
